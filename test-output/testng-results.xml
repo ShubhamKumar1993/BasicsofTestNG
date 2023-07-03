@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T15:13:18 IST" name="Default Suite" finished-at="2023-07-03T15:13:18 IST" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T15:13:18 IST" name="untitled" finished-at="2023-07-03T15:13:18 IST" duration-ms="50">
+      <class name="org.example.TestCases">
+        <test-method signature="SecondTest()[pri:1, instance:org.example.TestCases@62fdb4a6]" started-at="2023-07-03T15:13:18 IST" name="SecondTest" finished-at="2023-07-03T15:13:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method signature="setup()[pri:2, instance:org.example.TestCases@62fdb4a6]" started-at="2023-07-03T15:13:18 IST" name="setup" finished-at="2023-07-03T15:13:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FinalTest()[pri:3, instance:org.example.TestCases@62fdb4a6]" started-at="2023-07-03T15:13:18 IST" name="FinalTest" finished-at="2023-07-03T15:13:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalTest -->
+      </class> <!-- org.example.TestCases -->
+    </test> <!-- untitled -->
+  </suite> <!-- Default Suite -->
+</testng-results>
