@@ -19,6 +19,10 @@ public class TestCases {
     @Test (priority = 3)
     void FinalTest() {
         System.out.println("Done with Testng");
+       
+        @Test (priority = 4)
+    void FinalTest() {
+        System.out.println("again Testng");
 
     }
 }
